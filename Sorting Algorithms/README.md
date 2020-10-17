@@ -5,7 +5,7 @@ This repository contains the implementation of the most common sorting algorithm
 ALGORITHMS IMPLEMENTED :
 
 <ul>
-    <li>Insertion Sort<li>
+    <li>Insertion Sort</li>
     <li>Bubble Sort</li>
     <li>Merge Sort</li>
     <li>Heap Sort</li>

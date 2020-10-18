@@ -14,6 +14,7 @@ Headphones (IDT High Definition Audio CODEC)', 'Speakers / Headphones (IDT High 
 
 mic = sr.Microphone()  # Using the default system microphone
 
+print("Please Say something !!")
 with mic as source:
     r.adjust_for_ambient_noise(source) # To prevent noise or interference
     audio = r.listen(source)

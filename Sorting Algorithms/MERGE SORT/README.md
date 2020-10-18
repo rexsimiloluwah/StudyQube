@@ -4,7 +4,7 @@ Implementation of the Merge Sort algorithm in Python.
 
 <b>HOW DOES MERGE SORT WORK ?</b>
 
-Merge sort is an efficient and divide and conquer based algorithm. The algorithm works by dividing the array into sub-arrays until there is only one element present in each array. And these elements are then merged into pairs until the final sorted array is computed. Comparisons between elements in each sub-array are used to organize the elements. A major trade-off with the algorithm is space complexity because temporary arrays are going to be created which increases memory usage.
+Merge sort is an efficient, divide-and-conquer based algorithm. The algorithm works by dividing the array into sub-arrays until there is only one element present in each array. And these elements are then merged into pairs recursively until the final sorted array is computed. Comparisons between elements in each sub-array are used to organize the elements. A major trade-off with the mergesort algorithm is space complexity because temporary arrays are going to be created which increases memory usage.
 
 <b>PERFORMANCE</b>
 <ul>

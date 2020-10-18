@@ -32,7 +32,7 @@ class BubbleSort:
 
 if __name__ == "__main__":
     algo = BubbleSort()
-    arr = [random.randint(1, 100) for _ in range(100)]
+    arr = [random.randint(1, 100) for _ in range(10000)]
     start = time.time()
     print(algo.sort(arr, reverse = True))
     print("-"*30)

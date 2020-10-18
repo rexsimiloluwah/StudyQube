@@ -1,3 +1,5 @@
+// Insertion Sort Algorithm
+
 const insertionSort = (arr, reverse = false) => {
 
   for (let i = 0 ; i < arr.length ; i++) {

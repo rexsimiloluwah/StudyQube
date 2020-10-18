@@ -13,7 +13,7 @@ Bubble sort basically works by exchanging or swapping elements in an array itera
 <li>Space complexity :- O(1) </li>
 </ul>
 
-<b>OUTPUT - For a random list with 100 elements</b>
+<b>OUTPUT - For a random list of 100 elements</b>
 
 ```
 [2, 2, 3, 4, 6, 8, 8, 8, 9, 10, 11, 11, 11, 12, 14, 15, 15, 17, 17, 19, 21, 22, 22, 22, 23, 24, 25, 25, 26, 27, 29, 29, 30, 31, 32, 33, 33, 33, 33, 33, 34, 36, 36, 37, 37, 37, 38, 

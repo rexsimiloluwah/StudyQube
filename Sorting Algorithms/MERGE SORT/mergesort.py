@@ -70,7 +70,7 @@ class MergeSort:
 if __name__ == "__main__":
     arr = [random.randint(0, 10000) for _ in range(1000)]
     start = time.time()
-    mergesort = MergeSort(reverse = True)
+    mergesort = MergeSort(reverse = False)
     print(mergesort.merge_sort(arr))
     end = time.time()
 

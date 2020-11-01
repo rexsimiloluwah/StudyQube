@@ -1,5 +1,4 @@
 import csv
-import re
 
 def readCSV(filepath):
     with open(filepath, encoding="utf8", errors='ignore' ) as csvfile:

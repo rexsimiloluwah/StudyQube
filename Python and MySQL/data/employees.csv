@@ -1,0 +1,16 @@
+﻿emp_id,firstname,lastname,sex,region,dept_id,salary
+E0001,Alice,Warner,F,Lagos,2,50000
+E0002,Muhamaddu,Buhari,M,Ibadan,1,40000
+E0003,Ayo,Balogun,M,Abuja,5,150000
+E0004,Wale,Davies,M,Abuja,2,35000
+E0005,Olumide,Ayeni,M,Lagos,3,100000
+E0006,Salami,Malcolm,M,Abeokuta,4,30000
+E0007,Ayomide,Animashaun,F,Lagos,4,100000
+E0008,David,Adeleke,M,Abuja,5,300000
+E0009,Temilade,Onipeye,F,Lagos,4,120000
+E0010,Chris,Brown,M,Abeokuta,3,76000
+E0011,Nathan,Jake,M,Lagos,3,100000
+E0012,Eden,Hazard,M,Abuja,3,100000
+E0013,Victor,Olufemi,M,Abeokuta,4,30000
+E0014,Hannah,Asikpata,F,Ibadan,5,300000
+E0015,Ikon,Ekwuyasi,M,Abuja,1,40000

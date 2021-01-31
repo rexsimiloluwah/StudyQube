@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html, body{
+    font-family: 'Inter UI', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", Helvetica, Arial, sans-serif;
+    height: 100vh;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 3rem;
+    border-bottom: 1px solid #eee;
+}
+
+.nav__brand{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.navbar ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #141415;
+}
+.navbar ul li{
+    display: inline-block;
+    padding: .8rem 2rem;
+    margin: 0 1rem;
+    border: 2px solid #141415;
+    transition: .3s ease-in-out all;
+    cursor: pointer;
+}
+
+.active,
+.navbar ul li:hover{
+    background: #141415;
+    color: #fff;
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    align-content: center;
+    height: 50%;
+}
+
+.container{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    width: 80%;
+}
+
+.header{
+    line-height: 10rem;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.blogs__container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.blogs__container .card{
+    flex-direction: column;
+    width: 32%;
+    border: 1px solid #141415;
+    padding: 2rem 1rem;
+    box-shadow: -4px -4px #eee;
+}
+
+button{
+    padding: .8rem 2rem;
+    margin: 1rem auto;
+    border: 2px solid #141415;
+    transition: .3s ease-in-out all;
+    cursor: pointer;
+    outline: none;
+    box-shadow: none;
+}
+
+button:hover{
+    color: #fff;
+    background: #141415;
+}
